@@ -63,6 +63,7 @@ SSH (Port 22) from a specific IP for secure remote access
 HTTP (Port 80) from anywhere for web access This ensures controlled and secure communication with the instance.
 1.Connect to the EC2 instance using SSH with the key pair. Perform basic operations like start, stop, and reboot, and observe how the instance state changes in the console.
 2.Monitor the instance using the Monitoring tab to track CPU usage, network activity, and status checks. After completing the tasks, terminate the instance to prevent unnecessary costs.
+
 Output Screenshots (Attach 3)
 
 Screenshot 1: EC2 Dashboard / Instance List
